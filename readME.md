@@ -1,2 +1,2 @@
-Ses Deneme bir2
-3 dört
+Ses Deneme bir2 ------ 3dört
+
